@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on developing a **Telegram Bot Management Platform**
 - 🌱 I’m currently learning **Software Architecture** to enhance my project development skills
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🥅 2023 Goals: **Contribute more to Open Source projects and master software architecture**
 - ⚡ Fun fact: **I love to translate complex ideas into sleek, functional designs**
 
 
